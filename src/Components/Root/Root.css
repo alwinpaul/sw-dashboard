@@ -1,0 +1,6 @@
+.main-body {
+  height: calc(100vh - 70px);
+}
+.col {
+  padding: 0 !important;
+}

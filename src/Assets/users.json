@@ -1,0 +1,100 @@
+{
+  "active": [
+    {
+      "name": "Alwin Paul",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "dfsfsdfsf",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "ewrwerwrwer",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "fdjgdfgdf",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "dfgdfgdfgfd",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "gjdnfg dfkjdfd",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "gjdnfg dfkjdfd",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    }
+  ],
+  "pending": [
+    {
+      "name": "dfsfsdfsf",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "ewrwerwrwer",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "fdjgdfgdf",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "dfgdfgdfgfd",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "gjdnfg dfkjdfd",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    }
+  ],
+  "deactivated": [
+    {
+      "name": "Alwin Paul",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "dfsfsdfsf",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "ewrwerwrwer",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "fdjgdfgdf",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    }
+  ],
+  "admins": [
+    {
+      "name": "Alwin Paul",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    },
+    {
+      "name": "dfsfsdfsf",
+      "email": "al@aa.com",
+      "phone": "616-212-0909"
+    }
+  ]
+}

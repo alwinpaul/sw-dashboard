@@ -1,0 +1,13 @@
+.page-controls h2 {
+  font-size: 28px;
+}
+.sub-header {
+  font-size: 14px;
+}
+.tab-bar-clr {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+.tab-bar-clr button {
+  outline: none !important;
+}

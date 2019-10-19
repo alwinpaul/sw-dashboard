@@ -1,0 +1,30 @@
+.profile-pic {
+  display: inline-block;
+  width: 50px;
+  font-size: 42px;
+  line-height: 60px;
+  vertical-align: top;
+  margin: 0 auto;
+}
+.user-details {
+  display: inline-block;
+  max-width: 230px;
+  min-width: 180px;
+  margin: 10px;
+  vertical-align: top;
+}
+.controls {
+  display: inline-block;
+  width: 40px;
+  line-height: 60px;
+  font-size: 24px;
+  vertical-align: top;
+}
+.name {
+  font-size: 20px;
+  font-weight: bold;
+}
+.agency {
+  font-size: 14px;
+  color: #666;
+}
