@@ -3,7 +3,6 @@ import { Row, Col, Container } from "react-bootstrap";
 import { MdInsertDriveFile } from "react-icons/md";
 import {
   makeStyles,
-  InputLabel,
   MenuItem,
   FormControl,
   Select
